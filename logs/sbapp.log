@@ -8,3 +8,27 @@
 *[WARN ]-- SpringDoc /swagger-ui.html endpoint is enabled by default. To disable it in production, set the property 'springdoc.swagger-ui.enabled=false'--
 *[INFO ]-- HikariPool-1 - Shutdown initiated...--
 *[INFO ]-- HikariPool-1 - Shutdown completed.--
+*[INFO ]-- Starting SbappApplicationTests using Java 25.0.1 with PID 23872 (started by baraneetharan.r in D:\baraneetharan\java\springboot4\sbapp)--
+*[INFO ]-- No active profile set, falling back to 1 default profile: "default"--
+*[INFO ]-- HikariPool-1 - Starting...--
+*[INFO ]-- HikariPool-1 - Added connection conn0: url=jdbc:h2:file:~/sbapp user=SA--
+*[INFO ]-- HikariPool-1 - Start completed.--
+*[INFO ]-- Started SbappApplicationTests in 8.263 seconds (process running for 10.371)--
+*[WARN ]-- SpringDoc /v3/api-docs endpoint is enabled by default. To disable it in production, set the property 'springdoc.api-docs.enabled=false'--
+*[WARN ]-- SpringDoc /swagger-ui.html endpoint is enabled by default. To disable it in production, set the property 'springdoc.swagger-ui.enabled=false'--
+*[INFO ]-- HikariPool-1 - Shutdown initiated...--
+*[INFO ]-- HikariPool-1 - Shutdown completed.--
+*[INFO ]-- Starting SbappApplication using Java 25.0.1 with PID 19156 (D:\baraneetharan\java\springboot4\sbapp\target\classes started by baraneetharan.r in D:\baraneetharan\java\springboot4\sbapp)--
+*[INFO ]-- No active profile set, falling back to 1 default profile: "default"--
+*[INFO ]-- Starting service [Tomcat]--
+*[INFO ]-- Starting Servlet engine: [Apache Tomcat/11.0.27]--
+*[INFO ]-- HikariPool-1 - Starting...--
+*[INFO ]-- HikariPool-1 - Added connection conn0: url=jdbc:h2:file:~/sbapp user=SA--
+*[INFO ]-- HikariPool-1 - Start completed.--
+*[INFO ]-- Started SbappApplication in 9.138 seconds (process running for 10.197)--
+*[WARN ]-- SpringDoc /v3/api-docs endpoint is enabled by default. To disable it in production, set the property 'springdoc.api-docs.enabled=false'--
+*[WARN ]-- SpringDoc /swagger-ui.html endpoint is enabled by default. To disable it in production, set the property 'springdoc.swagger-ui.enabled=false'--
+*[INFO ]-- Initializing Spring DispatcherServlet 'dispatcherServlet'--
+*[INFO ]-- Init duration for springdoc-openapi is: 798 ms--
+*[INFO ]-- HikariPool-1 - Shutdown initiated...--
+*[INFO ]-- HikariPool-1 - Shutdown completed.--
