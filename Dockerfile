@@ -3,7 +3,7 @@
 #
 FROM eclipse-temurin:25-jdk AS build
 COPY . .
-RUN mvn clean install
+RUN mvnw clean install
 
 #
 # Package stage
